@@ -4,7 +4,7 @@
         
         {
         "name": "National Museum of African American History & culture",
-        "image": "msm1-AfricanAmericanMuseum.jpeg",
+        "image": "https://i.redd.it/w06l10x0s9931.jpg"
         "openDays":  "Monday - Sunday",
         "openHours": "10:00 AM – 5:30 PM",
         "address": " 1400 Constitution Ave.NW, Washington, DC 20560 ",
@@ -17,7 +17,7 @@
 
         {
         "name": "Renwick Gallery of the Smithsonian American Art",
-        "image": "msm2-renwick_cover1.jpeg",
+        "image": "https://s3-media3.fl.yelpcdn.com/bphoto/oPT7LCQefY7Jo-XR2WizSg/o.jpg",
         "openDays": "Wednesday - Sunday",
         "openHours": "10:00 AM - 5:30 PM",
         "address": "1661 Pennsylvania Avenue NW, Washington, DC 20006",
@@ -31,7 +31,7 @@
         
         {
         "name": "Smithsonian National Museum of Natural History",
-        "image": "msm3-NaturalHistory.jpeg",
+        "image": "https://familytravelck.com/wp-content/uploads/2016/09/2.-smithsonian-museum-of-natural-history.jpg",
         "openDays": "",
         "openHours": "Temporarily closed",
         "address": "10th St. & Constitution Ave. NW, Washington, DC 20560",
@@ -45,7 +45,7 @@
         
         {
         "name": "Hirshhorn Museum" ,
-        "image": "msm4-Hirshorn1.jpeg",
+        "image": "https://th.bing.com/th/id/OIP.of81ZoRyKfDUEeoEPLk-xQHaE8?pid=Api&rs=1",
         "openDays": "Monday - Sunday" ,
         "openHours": "10:00 AM - 4:30 PM",
         "address": "Independence Ave &, 7th St SW, Washington, DC 20560",
@@ -59,7 +59,7 @@
         
         {
         "name": "National Museum of American History",
-        "image": "msm5-American-History1.jpeg" ,
+        "image": "https://washington-org.s3.amazonaws.com/s3fs-public/logo-the_american_presidency_exhibition-7882.jpg" ,
         "openDays":  "Friday - Thursday",
         "openHours": "11:00 AM - 4:00 PM",
         "address": "1300 Constitution Ave. NW, Washington, DC 20560",
@@ -75,7 +75,7 @@
 
        {
         "name": "National Air and Space Museum",
-        "image": "msm6- AirAndSpace.jpeg" ,
+        "image": "https://th.bing.com/th/id/OIP.nUOSZJDNttv7GqZkPO2xCwHaDl?w=307&h=169&c=7&o=5&dpr=1.25&pid=1.7" ,
         "openDays": "Monday - Sunday" ,
         "openHours": "10:00 AM - 5:00 PM",
         "address": "600 Independence Ave SW, Washington, DC 20560",
@@ -89,7 +89,7 @@
 
         {
         "name": "National Gallery of Art",
-        "image": "msm7-ArtGallery1.jpeg" ,
+        "image": "https://www.sofia-guide.com/assets/national_art_gallery_pictures.jpg" ,
         "openDays": "Monday- Saturday"  ,
         "openHours": "11:00 AM - 4:00 PM ",
         "address": "Constitution Ave. NW, Washington, DC 20565",
@@ -104,7 +104,7 @@
 
        {
         "name": "National Portrait Gallery",
-        "image": "msm8-portraitGallery1.jpeg" ,
+        "image": "https://www.abpan.com/wp-content/uploads/2013/03/national-portrait-gallery-hall.jpg" ,
         "openDays": "Wednesday -Sunday",
         "openHours": "11:30 AM - 7:00 PM",
         "address": "8th St NW & F St NW, Washington, DC 20001",
@@ -117,7 +117,7 @@
           
        {
         "name": "Museum of the Bible",
-        "image": "msm9-Bible1.jpeg",
+        "image": "https://a.abcnews.com/images/Politics/museum-of-the-bible1-gty-mem-171116_4x3_992.jpg",
         "openDays": "Monday - Sunday",
         "openHours": "10:00 AM - 5:00 PM",
         "address": "400 4th St SW, Washington, DC 20024",
