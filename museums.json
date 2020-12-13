@@ -4,7 +4,7 @@
         
         {
         "name": "National Museum of African American History & culture",
-        "image": "https://i.redd.it/w06l10x0s9931.jpg"
+        "image": "https://i.redd.it/w06l10x0s9931.jpg",
         "openDays":  "Monday - Sunday",
         "openHours": "10:00 AM – 5:30 PM",
         "address": " 1400 Constitution Ave.NW, Washington, DC 20560 ",
@@ -45,7 +45,7 @@
         
         {
         "name": "Hirshhorn Museum" ,
-        "image": "https://th.bing.com/th/id/OIP.of81ZoRyKfDUEeoEPLk-xQHaE8?pid=Api&rs=1",
+        "image": "https://media.edutopia.org/styles/responsive_2880px_original/s3/masters/d7_images/king-inset-mathtrail-shutterstock.jpg",
         "openDays": "Monday - Sunday" ,
         "openHours": "10:00 AM - 4:30 PM",
         "address": "Independence Ave &, 7th St SW, Washington, DC 20560",
@@ -75,7 +75,7 @@
 
        {
         "name": "National Air and Space Museum",
-        "image": "https://th.bing.com/th/id/OIP.nUOSZJDNttv7GqZkPO2xCwHaDl?w=307&h=169&c=7&o=5&dpr=1.25&pid=1.7" ,
+        "image": "https://cdn.britannica.com/52/218152-050-75F3F823/Boeing-Milestones-of-Flight-hall-National-Air-and-Space-Museum-Washington-DC.jpg" ,
         "openDays": "Monday - Sunday" ,
         "openHours": "10:00 AM - 5:00 PM",
         "address": "600 Independence Ave SW, Washington, DC 20560",
