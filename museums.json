@@ -3,7 +3,7 @@
       "Museums":[
         
         {
-        "name": "Museum of African American History & culture",
+        "name": "African American History & culture",
         "image": "https://i.redd.it/w06l10x0s9931.jpg",
         "openDays":  "Monday - Sunday",
         "openHours": "10:00 AM – 5:30 PM",
@@ -16,7 +16,7 @@
         },
 
         {
-        "name": "Renwick Gallery of the Smithsonian American Art",
+        "name": "Renwick Gallery of American Art",
         "image": "https://www.si.edu/sites/default/files/newsdesk/press_releases/grand_salon_1.jpg",
         "openDays": "Wednesday - Sunday",
         "openHours": "10:00 AM - 5:30 PM",
@@ -30,7 +30,7 @@
         
         
         {
-        "name": "National Museum of Natural History",
+        "name": "Museum of Natural History",
         "image": "https://familytravelck.com/wp-content/uploads/2016/09/2.-smithsonian-museum-of-natural-history.jpg",
         "openDays": "",
         "openHours": "Temporarily closed",
@@ -58,7 +58,7 @@
 
         
         {
-        "name": "National Museum of American History",
+        "name": "Museum of American History",
         "image": "https://washington-org.s3.amazonaws.com/s3fs-public/logo-the_american_presidency_exhibition-7882.jpg" ,
         "openDays":  "Friday - Thursday",
         "openHours": "11:00 AM - 4:00 PM",
@@ -74,7 +74,7 @@
       
 
        {
-        "name": "National Air and Space Museum",
+        "name": "Air and Space Museum",
         "image": "https://cdn.britannica.com/52/218152-050-75F3F823/Boeing-Milestones-of-Flight-hall-National-Air-and-Space-Museum-Washington-DC.jpg" ,
         "openDays": "Monday - Sunday" ,
         "openHours": "10:00 AM - 5:00 PM",
